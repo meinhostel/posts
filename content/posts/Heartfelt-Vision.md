@@ -1,6 +1,6 @@
 ---
-title: "A Heartfelt Vision: Journey to Inspire and Create"
-date: 2025-01-10T00:00:28
+title: "A Heartfelt Vision"
+date: 2025-01-11T00:00:27
 draft: false
 description: 
 isStarred: false
