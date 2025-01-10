@@ -5,7 +5,7 @@ toc: false
 ---
 This is a journey of courage, creativity, and connection. Having ventured far from home, a vision is carried: To create a hostel that serves as a sanctuary for friends, family, and like-minded souls. This place, nestled in a beautiful corner of the world, is meant to be more than just a hostel – it’s a haven for creativity, a hub for inspiration, and a home for everyone who enters its doors.
 
-The idea first took shape during a time of profound reflection. Amidst the challenges of being far from loved ones, the dream of building a space evolved where people could gather, create, and simply be. She imagined a place where art, music, movement, and community come together – hosting festivals, retreats, workshops, and moments of pure connection.
+Amidst the challenges of being far from loved ones, the dream of building a space evolved where people could gather, create, and simply be. A place where art, music, movement, and community come together – hosting festivals, retreats, workshops, and moments of pure connection.
 
 This website holds a collection of personal messages, stories, and memories that reflect a bond, shared between friends and family, fostering the belief in this dream. You may encounter small pieces of inspiration, reminders of incredible connections built, and the impact they can have on others.
 
