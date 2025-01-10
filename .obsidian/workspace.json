@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The-Courage-to-Walk.md",
+                "file": "content/posts/What-am-I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The-Courage-to-Walk"
+              "title": "What-am-I"
             }
           }
         ],
@@ -207,11 +207,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0604cc66f60832ad",
+  "active": "870358935c2d9881",
   "lastOpenFiles": [
-    "content/posts/What-am-I.md",
-    "content/posts/Heartfelt-Vision.md",
     "content/posts/The-Courage-to-Walk.md",
+    "content/posts/Heartfelt-Vision.md",
+    "content/posts/What-am-I.md",
     "2025-01-10.md",
     "content/posts/Untitled.md",
     "_Readwise/Books/2025-01-10_Trust-Chaos.md",

@@ -1,5 +1,5 @@
 ---
-title: 2025-01-11_The-Courage-to-Walk
+title: The Courage to Walk
 date: 2025-01-10T00:00:01
 draft: false
 description: 
