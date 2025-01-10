@@ -1,5 +1,5 @@
 ---
-title: "A Heartfelt Vision: A Journey to Inspire and Create"
+title: "A Heartfelt Vision: Journey to Inspire and Create"
 date: 2025-01-10T00:00:00
 draft: false
 description: 
@@ -20,5 +20,6 @@ Ich wünsche dir sehr, dass du ein bisschen öfter siehst, was ich sehe: eine st
 
 Ich hätte so viel Freude daran, ein kleiner Teil deines Projekts zu sein und mitzuerleben, wie du Menschen in deinem kleinen Paradies glücklich machst.  Ich wünsche dir von Herzen, dass du in diesem neuen Jahr noch ein Stückchen näher an all das rückst, was du dir erträumst. Du hast alles in dir, um die Welt mit deinem Traum ein bisschen schöner zu machen und ich bin so froh, dass ich dich dabei kennen darf. 
 
-Ganz viel Liebe und eine riesengroße Umarmung 
+Ganz viel Liebe und eine riesengroße Umarmung
+ 
 -L-
