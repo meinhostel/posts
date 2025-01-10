@@ -1,4 +1,4 @@
-module github.com/meinhostel/blog
+module github.com/meinhostel/posts
 
 go 1.23.0
 
