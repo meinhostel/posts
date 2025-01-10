@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2025-01-11_A-Day-to-Start-a-Vision.md",
+                "file": "content/posts/2025-01-11_What-am-I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-11_A-Day-to-Start-a-Vision"
+              "title": "2025-01-11_What-am-I"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2025-01-11_A-Day-to-Start-a-Vision.md",
+                "file": "content/posts/2025-01-11_What-am-I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-11_A-Day-to-Start-a-Vision"
+              "title": "Backlinks for 2025-01-11_What-am-I"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2025-01-11_A-Day-to-Start-a-Vision.md",
+                "file": "content/posts/2025-01-11_What-am-I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-11_A-Day-to-Start-a-Vision"
+              "title": "Outgoing links from 2025-01-11_What-am-I"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2025-01-11_A-Day-to-Start-a-Vision.md"
+                "file": "content/posts/2025-01-11_What-am-I.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-11_A-Day-to-Start-a-Vision"
+              "title": "Outline of 2025-01-11_What-am-I"
             }
           }
         ]
@@ -165,7 +165,7 @@
   "active": "eebf82f4087d3634",
   "lastOpenFiles": [
     "templates/posts.md",
-    "content/posts/2025-01-11_A-Day-to-Start-a-Vision.md",
+    "content/posts/2025-01-11_What-am-I.md",
     "content/contact.md",
     "content/about.md",
     "content/_index.md"
