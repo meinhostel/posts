@@ -1,4 +1,10 @@
-
+---
+title: "The Art of Gezelligheid"
+date: 2025-01-11T00:00:49
+draft: false
+description: 
+isStarred: false
+---
 
 Den Mutigen gehört die Welt. Dieser Satz passt zu niemandem so gut wie zu dir. Einfach machen, könnte ja nach vorne losgehen – das verbinde ich mit dir. Ich glaube, du weißt manchmal gar nicht, wie sehr du mit deiner Art alle um dich herum inspirierst und ansteckst. Deswegen schreibe ich dir das heute mal.
 
