@@ -15,3 +15,5 @@ Ich weiß genau, was du hervorragend kannst: Tolle und einzigartige Atmosphären
 Ich bin mir sicher, dass ganz egal, was du in deinem Leben anpackst, es an Gezelligheid nicht zu übertreffen sein wird. Sei es ein Hostel in Portugal, ein Café in der Bretagne oder ein Retreat auf den Kanaren. Ganz egal, wohin die Reise geht, ob es tausende Kilometer weit weg ist oder nach Essen-Werden – ich komme. Ganz egal wohin.
 
 Ich freue mich jetzt schon auf alles, was kommt. Happy Birthday!
+
+-F-
